@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 0513d0cb3a1483047a5ef812fad4c06d
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 4096
+  textureSettings:
+    filterMode: 0
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: MoltenGlassDropAnimationEnd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_5
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1080
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_7
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_8
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_9
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_10
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_11
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 720
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_15
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_16
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_17
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 360
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_19
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_20
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_21
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_22
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: MoltenGlassDropAnimationEnd_23
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 360
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
